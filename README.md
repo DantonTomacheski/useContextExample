@@ -1,2 +1,2 @@
 # useContextExample
-Example using contexts in React
+Example using contexts and hooks context in React
